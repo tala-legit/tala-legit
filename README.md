@@ -38,9 +38,9 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tala-legit&show_icons=true&locale=en&layout=compact&theme=transparent" width="363" hight="150" alt="yamtaldev" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tala-legit&show_icons=true&locale=en&layout=compact&theme=transparent" width="363" hight="150" alt="tala-legit" /> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=tala-legit&show_icons=true&locale=en&theme=transparent" width="478" hight="150" alt="yamtaldev"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tala-legit&show_icons=true&locale=en&theme=transparent" width="478" hight="150" alt="tala-legit"/>
 
 </div>
 
@@ -63,7 +63,7 @@
 <a href="" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="52" height="40" alt="slack logo"/> </a>
 
-<a href="https://github.com/YamtalDev" target="blank"> 
+<a href="https://github.com/tala-legit" target="blank"> 
 <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"/> </a> 
 
 <a href="https://www.facebook.com/tal.aharon.395/" target="blank"> 
