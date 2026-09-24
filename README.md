@@ -32,10 +32,6 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
 
-
-<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tala-legit&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">    
-
 <div align="left">
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=vp7uxscq85yld7fbkr2a0zp4i&count=8&width=730&radius=18&unique=1&duration=1&album=1)
