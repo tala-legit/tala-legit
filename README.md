@@ -38,14 +38,6 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tala-legit&show_icons=true&locale=en&layout=compact&theme=transparent" width="363" hight="150" alt="tala-legit" /> 
-
-<img src="https://github-readme-stats.vercel.app/api?username=tala-legit&show_icons=true&locale=en&theme=transparent" width="478" hight="150" alt="tala-legit"/>
-
-</div>
-
-<div align="left">
-
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=vp7uxscq85yld7fbkr2a0zp4i&count=8&width=730&radius=18&unique=1&duration=1&album=1)
 
 </div>
